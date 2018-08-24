@@ -15,6 +15,6 @@
     "webpack-cli": "2.0.9",
     "webpack-dev-server": "3.0.0",
     "elm-webpack-loader": "git+ssh://git@github.com:xtian/elm-webpack-loader.git#0.19",
-    "elm-hot": "file:/Users/keith/dev/elm-hot"
+    "elm-hot": "git+ssh://git@github.com:klazuka/elm-hot.git"
   }
 }
