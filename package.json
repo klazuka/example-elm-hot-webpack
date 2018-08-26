@@ -3,18 +3,22 @@
   "version": "1.0.0",
   "description": "",
   "author": "Keith Lazuka",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klazuka/example-elm-hot-webpack"
+  },
   "license": "ISC",
   "scripts": {
     "dev": "webpack-dev-server --mode development --port 3000"
   },
   "devDependencies": {},
   "dependencies": {
+    "elm-hot-webpack-loader": "^0.9.2",
+    "elm-webpack-loader": "git+ssh://git@github.com:xtian/elm-webpack-loader.git#0.19",
     "file-loader": "1.1.10",
     "loader-utils": "1.1.0",
     "webpack": "4.0.1",
     "webpack-cli": "2.0.9",
-    "webpack-dev-server": "3.0.0",
-    "elm-webpack-loader": "git+ssh://git@github.com:xtian/elm-webpack-loader.git#0.19",
-    "elm-hot": "git+ssh://git@github.com:klazuka/elm-hot.git"
+    "webpack-dev-server": "3.0.0"
   }
 }
