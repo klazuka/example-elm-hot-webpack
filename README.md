@@ -1,7 +1,4 @@
 
-**WARNING** This example is not fully ready. It works, but elm-webpack-loader support for 0.19 has not been officially published yet. This example uses a PR fork as a temporary solution.
-
-
 ## Example: Elm 0.19 hot module reloading with Webpack
 
 Demonstrates how to use [elm-hot-webpack-loader](https://github.com/klazuka/elm-hot-webpack-loader) together with [elm-webpack-loader](https://github.com/elm-community/elm-webpack-loader). This is just a toy project to show the simplest possible integration. You may want to consider more full-featured alternatives such as [create-elm-app](https://github.com/halfzebra/create-elm-app).
