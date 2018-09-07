@@ -13,7 +13,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "elm-hot-webpack-loader": "^1.0.0",
+    "elm-hot-webpack-loader": "^1.0.1",
     "elm-webpack-loader": "^5.0.0",
     "file-loader": "^1.1.10",
     "loader-utils": "^1.1.0",
